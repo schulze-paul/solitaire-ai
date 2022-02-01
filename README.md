@@ -39,7 +39,7 @@ A move consists of a peg jumping over an adjacent peg into a hole two positions 
 
 The game ends when no more moves are possible.
 
-## Algorithm
+## AI Algorithm
 
 The recursive algorithm calculates every possible move for a given board state and then calculates the resulting board state for each move. 
 
