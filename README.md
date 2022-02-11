@@ -1,6 +1,8 @@
 # Solitaire AI
 
 
+Author: <a href="https://schulze-paul.github.io">Paul Schulze</a>
+
 A recursive algorithm that explores every possible move in peg solitaire.
 
 
